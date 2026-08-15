@@ -12,25 +12,6 @@ Personal portfolio website built with React, Vite, Tailwind CSS, and Framer Moti
 
 ---
 
-## Quick Start
-
-```bash
-# Clone the repository
-git clone https://github.com/ssxAsad/portfolio.git
-cd portfolio
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-# Build for production
-npm run build
-```
-
----
-
 ## Author
 
 **Asad Ullah Khan** — [@ssxAsad](https://github.com/ssxAsad)
